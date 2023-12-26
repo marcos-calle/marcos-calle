@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web-Development**
 - 🌱 I’m currently learning **NextJs**
-- 💬 Ask me about **React**,*.Net*
+- 💬 Ask me about **React**,*.Net Framework*
 - 📫 How to reach me: **email**
 <h3 align="left">Languages and Tools</h3>
 
